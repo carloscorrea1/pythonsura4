@@ -1,2 +1,3 @@
-# pythonsura4
-Condicionales y ciclo con python
+# CICLOS Y CONDICIONES CON PYTHON
+
+## Programado por: Carlos Correa.
